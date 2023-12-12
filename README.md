@@ -55,8 +55,5 @@ Troubleshooting
 If you encounter any issues during installation or execution, refer to the documentation for MediaPipe and OpenCV for troubleshooting and support.
 
 
-## Acknowledgments
-
-Give credit to any third-party libraries, tools, or resources used in the project.
 
 
