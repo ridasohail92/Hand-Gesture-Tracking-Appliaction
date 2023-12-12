@@ -28,8 +28,6 @@ Our team is dedicated not only to achieving the set milestones but also to explo
 
 ## How to Run the Code
 
-## How to Run the Code
-
 ### Dependencies
 Before running the code, ensure you have the following dependencies installed:
 
