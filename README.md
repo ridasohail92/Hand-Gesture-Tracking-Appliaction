@@ -28,22 +28,37 @@ Our team is dedicated not only to achieving the set milestones but also to explo
 
 ## How to Run the Code
 
-(Include instructions on dependencies, setup, and running the code)
+## How to Run the Code
 
-## Demonstration
+### Dependencies
+Before running the code, ensure you have the following dependencies installed:
 
-(Include links to videos or images demonstrating the hand gesture tracking system and virtual calculator application in action)
+- Python 3.x
+- [MediaPipe](https://google.github.io/mediapipe/)
+- [OpenCV](https://opencv.org/)
 
-## Future Work
 
-Outline potential future developments, improvements, or applications of the hand gesture tracking technology.
+## Running the Project
+
+Navigate to the folder containing the project files in the terminal and run the main script:
+
+```bash
+python main.py
+```
+
+press q to exit detection
+
+Follow the on-screen instructions for any additional setup or usage guidelines.
+
+Notes
+Make sure your camera is properly connected and accessible.
+Adjust camera parameters if needed in the configuration files or as command-line arguments.
+Troubleshooting
+If you encounter any issues during installation or execution, refer to the documentation for MediaPipe and OpenCV for troubleshooting and support.
+
 
 ## Acknowledgments
 
 Give credit to any third-party libraries, tools, or resources used in the project.
 
-## License
 
-Specify the project's license information.
-
----
